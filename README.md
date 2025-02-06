@@ -12,7 +12,6 @@
 </div>
 
 
-**Detect plant diseases instantly using AI-powered image recognition!** 📸🌿  
 
 ## 📌 Features  
 - 🔍 Fast and accurate disease detection  
