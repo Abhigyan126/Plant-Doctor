@@ -28,7 +28,7 @@
 | **Tomato**       | Bacterial Spot, Early Blight, Late Blight, Leaf Mold, Septoria Leaf Spot, Spider Mites, Target Spot, Yellow Leaf Curl Virus, Mosaic Virus, Healthy |
 
 ## 🚀 Download Now  
-Get the latest APK release 👉 [Download Here](https://github.com/your-repo/releases)  
+Get the latest APK release 👉 [Download Here](https://github.com/Abhigyan126/Plant-Doctor/releases/tag/v1.0.0)  
 
 🔍 *Simply capture an image of a leaf and let the AI identify its disease!*  
 
