@@ -1,20 +1,42 @@
-# Ignore Android Studio & system files
+# macOS system files
+.DS_Store
+*.DS_Store
+
+# Android Studio / IntelliJ files
 .idea/
 *.iml
 *.log
 
-# Ignore Gradle & build files
-/build/
-/app/build/
-/gradle/
-/.gradle/
-/local.properties
-
-# Ignore generated files
-*.apk
-*.aab
+# Gradle files
+.gradle/
+build/
+app/build/
+gradle/
+local.properties
 *.keystore
+*.jar
+*.war
+*.ear
 
-# Ignore dependency caches
-.cxx/
-.externalNativeBuild/
+# Cache & Generated Files
+/captures/
+/output.json
+/.cxx/
+/.externalNativeBuild/
+/*.apk
+/*.aab
+
+# Test / Debug Files
+*.test
+*.temp
+*.bak
+*.swp
+
+# Git & OS Metadata
+Thumbs.db
+ehthumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
