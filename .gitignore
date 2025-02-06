@@ -1,0 +1,20 @@
+# Ignore Android Studio & system files
+.idea/
+*.iml
+*.log
+
+# Ignore Gradle & build files
+/build/
+/app/build/
+/gradle/
+/.gradle/
+/local.properties
+
+# Ignore generated files
+*.apk
+*.aab
+*.keystore
+
+# Ignore dependency caches
+.cxx/
+.externalNativeBuild/
